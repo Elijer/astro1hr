@@ -1,7 +1,7 @@
 {
   "name": "astro1hr",
   "type": "module",
-  "node" : "22.3.0",
+  "node": "22.3.0",
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
@@ -10,6 +10,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.0.9"
+    "astro": "^4.15.12"
   }
 }
